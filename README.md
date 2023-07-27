@@ -1,5 +1,5 @@
-This is a small pet project that had been on my mind for years after a friend went on a month-long road trip across the U.S. Using the location data from his phone, I use geopandas to make a map of his route, quickly labeling each day of progress and coloring the route to more easily see each day of travel. 
+This is a small pet project that had been on my mind for years after a friend went on a month-long road trip across the U.S. Using the location data from his phone, I use geopandas to make several maps of his route and look at his average recorded speeds.
 
-See the [notebook](https://github.com/andrewjtdunn/travel-map/blob/main/map_travel_history.ipynb) for my analytic process.
+See the [notebook](https://github.com/andrewjtdunn/travel-map/blob/main/map_travel_history.ipynb) for my analytic process and all of the maps.
 
-The resulting map: ![map](map.png)
+The resulting map of his daily progress: ![map](map.png)
